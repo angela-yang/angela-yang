@@ -7,7 +7,7 @@ I always love meeting new people, so come get in touch with me! Here are my soci
   <br>
     [![Linkedin Badge](https://img.icons8.com/material-outlined/24/FFFFFF/linkedin--v1.png)](https://www.linkedin.com/in/anqelayang/)
     [![Gmail Badge](https://img.icons8.com/material-outlined/24/FFFFFF/new-post.png)](mailto:angelay2@uw.edu)
-    [![Discord Badge](https://img.icons8.com/forma-bold/24/FFFFFF/discord-logo.png)](discord://-/users/angelaxyang) 
+    [![Discord Badge](https://img.icons8.com/forma-bold/24/FFFFFF/discord-logo.png)](https://discord.gg/5B6nnrSk)
   <br>
   
 Check out some more cool facts about me:
