@@ -6,7 +6,7 @@ Here are some more facts about me:
 - 💻 Check out my <a href="angela-yang.github.io/portfolio">**portfolio!**</a> It's currently still under development 🛠️
 - 🏆 Over the years, I've won 1st place and 3rd place at **EMP Hackfest**, a local hackathon in Washington State. My team developed an <a href="https://devpost.com/software/air-quality-health">**AQI-detecting web app**</a> that helps determine the air quality around you, and generates personalized feedback on how to keep yourself safe. We also developed an <a href="https://devpost.com/software/bear-go-brrr">**environmentally-friendly game**</a> in which icebergs melt as you drive. Through the game, you attempt to keep your pet polar bears safe by reducing your carbon footprint. :)
 - 🌱 I love design and animation, and I draw a lot of inspiration from **Studio Ghibli**.
-  <img width="500" height="232" alt="image" src="https://github.com/angela-yang/angela-yang/totoro.gif" />
+  <img width="500" height="232" alt="image" src="https://github.com/angela-yang/angela-yang/blob/main/totoro.gif" alt="Totoro GIF" />
 
 - 📫 I always love meeting new people! Get in touch with <a href="https://www.linkedin.com/in/anqelayang/">**my linkedin**</a> :)
 <br><br>
