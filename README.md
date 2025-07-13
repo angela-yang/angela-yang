@@ -6,8 +6,8 @@ Hello 😎 I'm Angela Yang, an undergraduate majoring in Computer Science at the
 I always love meeting new people, so come get in touch with me! Here are my socials:
   <br>
     [![Linkedin Badge](https://img.icons8.com/material-outlined/24/FFFFFF/linkedin--v1.png)](https://www.linkedin.com/in/anqelayang/)
-    [![Gmail Badge](https://img.icons8.com/material-outlined/24/FFFFFF/new-post.png)](mailto:angelay2g@uw.edu)
-    [![Discord Badge](https://img.icons8.com/forma-bold/24/FFFFFF/discord-logo.png)](discordapp.com/users/angelaxyang) 
+    [![Gmail Badge](https://img.icons8.com/material-outlined/24/FFFFFF/new-post.png)](mailto:angelay2@uw.edu)
+    [![Discord Badge](https://img.icons8.com/forma-bold/24/FFFFFF/discord-logo.png)](discord://-/users/angelaxyang) 
   <br>
   
 Check out some more cool facts about me:
