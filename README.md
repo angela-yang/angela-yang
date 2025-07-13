@@ -1,18 +1,42 @@
 ## Hi there 👋
 
-Hello! 😎 I'm Angela, an undergraduate majoring in Computer Science at the University of Washington. 💛💜
-Here are some more facts about me:
+Hello 😎 I'm Angela Yang, an undergraduate majoring in Computer Science at the University of Washington. 💛💜
+<br>
 
-- 💻 Check out my <a href="angela-yang.github.io/portfolio">**portfolio!**</a> It's currently still under development 🛠️
+I always love meeting new people, so come get in touch with me! Here are my socials:
+  <br>
+    [![Linkedin Badge](https://img.icons8.com/material-outlined/24/FFFFFF/linkedin--v1.png)](https://www.linkedin.com/in/anqelayang/)
+    [![Gmail Badge](https://img.icons8.com/material-outlined/24/FFFFFF/new-post.png)](mailto:angelay2g@uw.edu)
+    [![Discord Badge](https://img.icons8.com/forma-bold/24/FFFFFF/discord-logo.png)](discordapp.com/users/angelaxyang) 
+  <br>
+  
+Check out some more cool facts about me:
+- 💻 Here is my <a href="angela-yang.github.io/portfolio">**portfolio!**</a> It's currently still under development 🛠️
 - 🏆 Over the years, I've won 1st place and 3rd place at **EMP Hackfest**, a local hackathon in Washington State. My team developed an <a href="https://devpost.com/software/air-quality-health">**AQI-detecting web app**</a> that helps determine the air quality around you, and generates personalized feedback on how to keep yourself safe. We also developed an <a href="https://devpost.com/software/bear-go-brrr">**environmentally-friendly game**</a> in which icebergs melt as you drive. Through the game, you attempt to keep your pet polar bears safe by reducing your carbon footprint. :)
 - 🌱 I love design and animation, and I draw a lot of inspiration from **Studio Ghibli**.
-  <img width="500" height="232" alt="image" src="https://github.com/angela-yang/angela-yang/blob/main/totoro.gif" alt="Totoro GIF" />
+    <br>
+      <img width="500" height="232" alt="image" src="https://github.com/angela-yang/angela-yang/blob/main/totoro.gif" alt="Totoro GIF" />
+    <br>
 
-- 📫 I always love meeting new people! Get in touch with <a href="https://www.linkedin.com/in/anqelayang/">**my linkedin**</a> :)
-<br><br>
+## 💪 Skills
 
-<p style="display:inline-block" align="center">
-  <!-- Languages -->
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=Cplusplus)
+
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=TailwindCSS)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+
+<!--<p style="display:inline-block" align="center">
+  <!-- Languages 
   <kbd>
     <kbd>Languages</kbd><br><br>
     <a href="https://isocpp.org" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" /></a>
@@ -23,7 +47,7 @@ Here are some more facts about me:
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" /></a>
   </kbd>
 
-  <!-- Front‑end & Mobile -->
+  <!-- Front‑end & Mobile 
   <kbd>
     <kbd>Front‑end & Mobile</kbd><br><br>
     <a href="https://tailwindcss.com" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" /></a>
@@ -31,7 +55,7 @@ Here are some more facts about me:
     <a href="https://getbootstrap.com" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" /></a>
   </kbd>
   
-  <!-- DevOps & Infra -->
+  <!-- DevOps & Infra 
   <kbd>
     <kbd>DevOps & Infra</kbd><br><br>
     <a href="https://github.com/features/actions" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-plain.svg" alt="GitHub Actions" /></a>
@@ -40,7 +64,7 @@ Here are some more facts about me:
   </kbd>
 </p>
 <br>
-
+-->
 
 
 <!--
