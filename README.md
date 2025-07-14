@@ -3,11 +3,11 @@
 Hello 😎 I'm Angela Yang, an undergraduate majoring in Computer Science at the University of Washington. 💛💜
 <br>
 
-I always love meeting new people. Here are my socials :)
+I always love meeting new people. 🤝 Here are my socials :)
   <br>
-    [![Linkedin Badge](https://img.icons8.com/material-outlined/30/FFFFFF/linkedin--v1.png)](https://www.linkedin.com/in/anqelayang/)
-    [![Gmail Badge](https://img.icons8.com/material-outlined/30/FFFFFF/new-post.png)](mailto:angelay2@uw.edu)
-    [![Instagram Badge](https://img.icons8.com/material-outlined/30/FFFFFF/instagram-new--v1.png)](https://www.instagram.com/anqie.io/)
+    [![Linkedin Badge](https://img.icons8.com/color/28/linkedin.png)](https://www.linkedin.com/in/anqelayang/)
+    [![Gmail Badge](https://img.icons8.com/color/28/gmail-new.png)](mailto:angelay2@uw.edu)
+    [![Instagram Badge](https://img.icons8.com/fluency/28/instagram-new.png)](https://www.instagram.com/anqie.io/)
   <br>
   
 Check out some more cool facts about me:
