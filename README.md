@@ -7,32 +7,13 @@ Hello! I'm Angela Yang, an undergraduate planning to major in Computer Science a
 - 🎮 I really love creating or playing interactive games and web-apps that are visually appealing and fun to navigate.
 - 🏆 I've won 1st place and 3rd place at **EMP Hackfest**, a local hackathon in Washington State. My team developed an <a href="https://devpost.com/software/air-quality-health">**AQI-detecting web app**</a> that helps determine the air quality around you, and generates personalized feedback on how to keep yourself safe. We also developed an <a href="https://devpost.com/software/bear-go-brrr">**environmentally-friendly game**</a> in which icebergs melt as you drive. Through the game, you attempt to keep your pet polar bears safe by reducing your carbon footprint. :)
 - 🌱 I love design and animation, and I draw a lot of inspiration from **Studio Ghibli**.
-    <br><img width="500" height="232" alt="image" src="https://github.com/angela-yang/angela-yang/blob/main/totoro.gif" alt="Totoro GIF" /><br>
+  <img width="500" height="232" alt="image" src="https://github.com/angela-yang/angela-yang/blob/main/totoro.gif" alt="Totoro GIF" />
 
-## 💪 Languages and Tools
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=Cplusplus)
+- 📫 I always love meeting new people! Get in touch with <a href="https://www.linkedin.com/in/anqelayang/">**my linkedin**</a> :)
+<br><br>
 
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=TailwindCSS)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-
-## ❤️ Let's Get Connected
-I always love meeting new people. 🤝
-<br>
-[![Linkedin Badge](https://img.icons8.com/color/28/linkedin.png)](https://www.linkedin.com/in/anqelayang/)
-[![Gmail Badge](https://img.icons8.com/color/28/gmail-new.png)](mailto:angelay2@uw.edu)
-[![Instagram Badge](https://img.icons8.com/fluency/28/instagram-new.png)](https://www.instagram.com/anqie.io/)
-<!--<p style="display:inline-block" align="center">
-  <!-- Languages 
+<p style="display:inline-block" align="center">
+  <!-- Languages -->
   <kbd>
     <kbd>Languages</kbd><br><br>
     <a href="https://isocpp.org" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" /></a>
