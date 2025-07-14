@@ -1,4 +1,4 @@
-## Hi there <img width="20" height="20" alt="image" src="https://github.com/angela-yang/angela-yang/blob/main/hello.gif" alt="Totoro GIF" />
+## Hi there <img width="20" height="20" alt="image" src="https://github.com/angela-yang/angela-yang/blob/main/hi.gif" alt="Hello GIF" />
     
 Hello! I'm Angela Yang, an undergraduate planning to major in Computer Science at the University of Washington 💛💜 in the fall.
 <br>
