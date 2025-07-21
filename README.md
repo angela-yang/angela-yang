@@ -26,7 +26,7 @@ Hello! I'm Angela Yang, an undergraduate planning to major in Computer Science a
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 ## ❤️ Let's Get Connected
-I always love meeting new people. 🤝
+I always love meeting new people! Here are my socials:
 <br>
 [![Linkedin Badge](https://img.icons8.com/color/28/linkedin.png)](https://www.linkedin.com/in/anqelayang/)
 [![Gmail Badge](https://img.icons8.com/color/28/gmail-new.png)](mailto:angelay2@uw.edu)
