@@ -3,7 +3,7 @@
 Hello! I'm Angela Yang, an undergraduate planning to major in Computer Science at the University of Washington 💛💜 in the fall.
 <br>
 ## 🧍‍♀️ About Me
-- 💻 Check out my <a href="https://angela-yang.github.io/portfolio/">**portfolio!**</a> [although it's currently under development 🛠️]
+- 💻 Check out my <a href="https://angela-yang.github.io/">**portfolio!**</a>
 - 🎮 I really love creating interactive games and web-apps that are visually appealing and fun to navigate.
 - 🏆 I've won 1st place and 3rd place at **EMP Hackfest**, a local hackathon in Washington State. My team developed an <a href="https://devpost.com/software/air-quality-health">**AQI-detecting web app**</a> that helps determine the air quality around you, and generates personalized feedback on how to keep yourself safe. We also developed an <a href="https://devpost.com/software/bear-go-brrr">**environmentally-friendly game**</a> in which icebergs melt as you drive. Through the game, you attempt to keep your pet polar bears safe by reducing your carbon footprint. :)
 - 🌱 I love design and animation, and I draw a lot of inspiration from **Studio Ghibli**.
