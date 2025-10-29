@@ -1,12 +1,11 @@
-## Hi there <img width="35" height="35" alt="image" src="https://github.com/angela-yang/angela-yang/blob/main/hi.gif" alt="Hello GIF" />
-    
-Hello! I'm Angela Yang, an undergraduate majoring in Computer Science at the University of Washington 💛💜.
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Angela+Yang)](https://git.io/typing-svg)
+
 ## 🧍‍♀️ About Me
+- I'm an undergraduate majoring in Computer Science at the University of Washington 💛💜
 - 💻 Check out my <a href="https://angela-yang.github.io/">**portfolio!**</a>
 - 🏆 I've won 1st place and 3rd place at **EMP Hackfest**, a local hackathon in Washington State. My team developed an <a href="https://devpost.com/software/air-quality-health">**AQI-detecting web app**</a> that helps determine the air quality around you, and generates personalized feedback on how to keep yourself safe. We also developed an <a href="https://devpost.com/software/bear-go-brrr">**environmentally-friendly game**</a> in which icebergs melt as you drive. Through the game, you attempt to keep your pet polar bears safe by reducing your carbon footprint. :)
 - 🌱 I love design and animation, and I draw a lot of inspiration from **Studio Ghibli**.
-    <br><img width="500" height="232" alt="image" src="https://github.com/angela-yang/angela-yang/blob/main/totoro.gif" alt="Totoro GIF" /><br>
+<p align="center"><img width="500" height="232" alt="image" src="https://github.com/angela-yang/angela-yang/blob/main/totoro.gif" alt="Totoro GIF" /></p>
 
 ## 💪 Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
