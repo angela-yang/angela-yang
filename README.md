@@ -26,10 +26,13 @@
 ## ❤️ Let's Get Connected
 I always love meeting new people! Here are my socials:
 <br>
-[![Linkedin Badge](https://img.icons8.com/color/28/linkedin.png)](https://www.linkedin.com/in/anqelayang/)
-[![Gmail Badge](https://img.icons8.com/color/28/gmail-new.png)](mailto:angelay2@uw.edu)
-[![Instagram Badge](https://img.icons8.com/fluency/28/instagram-new.png)](https://www.instagram.com/anqie.io/)
+<div>
+<a href="https://www.instagram.com/anqie.io/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: angelay2@uw.edu"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/angelaxy/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
+## 🐍 Contribution Chart
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angela-yang/angela-yang/blob/main/dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/angela-yang/angela-yang/blob/main/dist/github-snake.svg" />
