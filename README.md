@@ -29,6 +29,12 @@ I always love meeting new people! Here are my socials:
 [![Linkedin Badge](https://img.icons8.com/color/28/linkedin.png)](https://www.linkedin.com/in/anqelayang/)
 [![Gmail Badge](https://img.icons8.com/color/28/gmail-new.png)](mailto:angelay2@uw.edu)
 [![Instagram Badge](https://img.icons8.com/fluency/28/instagram-new.png)](https://www.instagram.com/anqie.io/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angela-yang/angela-yang/blob/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/angela-yang/angela-yang/blob/main/dist/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://github.com/angela-yang/angela-yang/blob/main/dist/github-snake.svg" />
+</picture>
 <!--<p style="display:inline-block" align="center">
   <!-- Languages 
   <kbd>
