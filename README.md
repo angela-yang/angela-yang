@@ -2,26 +2,59 @@
 
 ## 🧍‍♀️ About Me
 - I'm an undergraduate majoring in Computer Science at the University of Washington 💛💜
-- 💻 Check out my <a href="https://angela-yang.github.io/">**portfolio!**</a>
-- 🏆 I've won 1st place and 3rd place at **EMP Hackfest**, a local hackathon in Washington State. My team developed an <a href="https://devpost.com/software/air-quality-health">**AQI-detecting web app**</a> that helps determine the air quality around you, and generates personalized feedback on how to keep yourself safe. We also developed an <a href="https://devpost.com/software/bear-go-brrr">**environmentally-friendly game**</a> in which icebergs melt as you drive. Through the game, you attempt to keep your pet polar bears safe by reducing your carbon footprint. :)
+- 💻 Check out my <a href="https://angela-yang.github.io/">portfolio</a>!
+- 🏆 I love participating in hackathons! With my team, we have created so many amazing projects in just under two days. Here are some highlights:
+  - ⭐ **1st Place, Best Product** - WINFO Hackathon 2026:
+    <a href="https://github.com/weisop/Winfo">**NewsFuse**</a>
+  - ☁️ **1st Place Overall** - SeaHack 2023:
+    <a href="https://devpost.com/software/air-quality-health">**Air Quality Health**</a>
+  - 🧊 **3rd Place Overall** - SmartHack 2024:
+    <a href="https://devpost.com/software/bear-go-brrr">**Bear Go Brr**</a>
+  - Here is my <a href="https://devpost.com/angela-xq-yang">devpost profile</a> if you'd like to see more!
 - 🌱 I love design and animation, and I draw a lot of inspiration from **Studio Ghibli**.
 <p align="center"><img width="500" height="232" alt="image" src="https://github.com/angela-yang/angela-yang/blob/main/totoro.gif" alt="Totoro GIF" /></p>
 
-## 💪 Languages and Tools
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=Cplusplus)
+<!--
+- ⭐ **1st Place, Best Product - WINFO 2026 Hackathon:**
+    We developed a news app, <a href="https://github.com/weisop/Winfo">**NewsFuse**</a>, where users can easily stay up-to-date with current events. It also encourages action, showing you what you can do about the news you are reading.
+  - ☁️ **1st Place Overall - SeaHack 2023:**
+    My team developed an AQI-detecting web app, <a href="https://devpost.com/software/air-quality-health">**Air Quality Health**</a>, that helps determine the air quality around you, and generates personalized feedback on how to keep yourself safe.
+  - 🧊 **3rd Place Overall - SmartHack 2024:**
+    We developed an environmentally-friendly game, <a href="https://devpost.com/software/bear-go-brrr">**Bear Go Brr**</a>, in which icebergs melt as you drive. Through the game, you attempt to keep your pet polar bears safe by reducing your carbon footprint. :)
+-->
 
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=TailwindCSS)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+## 💪 Languages and Tools
+<!-- Languages -->
+<div align="center">
+  
+<kbd>
+<kbd><div align="center">Languages</div></kbd>
+<br></br>
+
+  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=Cplusplus)
+  
+</kbd>
+<br><br>
+<kbd>
+<kbd><div align="center">Tools</div></kbd>
+<br></br>
+  
+  ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=TailwindCSS)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+  
+</kbd>
+
+</div>
 
 ## ❤️ Let's Get Connected
 I always love meeting new people! Here are my socials:
